@@ -30,7 +30,7 @@ By using **Statsmodels (SARIMAX)** to capture complex annual macro-seasonality a
 Transitioning retrospective sales tracking into an active statistical prediction engine converts historic data into proactive operational indicators. The framework maps future scale targets surrounded safely by a 95% demand uncertainty horizon.
 
 ## 🔍 Key Operational Insights & Business Use-Cases
-### 1. 🚀 Macro-Demand Velocity (Supply Chain & Inventory Buffer Strategy)
+### 🚀 1. Macro-Demand Velocity (Supply Chain & Inventory Buffer Strategy)
 * **The Insight:** The forecasting engine projects distinct seasonal surge velocity patterns, highlighting high-volume sales intervals weeks before they happen.
 * **Business Application:** Inventory replenishment managers can utilize these automated target volumes to proactively establish localized buffer stocks, mitigating out-of-stock risks on fast-moving consumer goods and streamlining warehouse inbound cargo flows.
 ### 📅 2. Holiday Cycle Trajectories (Workforce & Capacity Optimization)
